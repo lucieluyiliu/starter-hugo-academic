@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Lucie Lu · 路一劉
 
 # Is this the primary user of the site?
 superuser: true
